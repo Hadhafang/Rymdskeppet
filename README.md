@@ -1,6 +1,10 @@
 # Rymdskeppet
 =========
-Där jag och min bror programerar och bygger en rymdskepps simulator :D
+Jag och min bror programmerar och bygger en rymdskeppssimulator till raspberry pi :D
+Rymdskeppet ska kunna röra sig genom solsystemet och landa på olika planeter.
+Rasberry pi'ns GPIO ska kunna användas för att skapa en kontrollpanel med blinkande lampor och knappar.
+
+
 Using Git
 =========
 
