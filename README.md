@@ -1,4 +1,6 @@
 # Rymdskeppet
+=============
+Där jag och min bror programerar och bygger en rymdskepps simulator :D
 Using Git
 =========
 
